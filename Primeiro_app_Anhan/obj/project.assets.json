@@ -5271,11 +5271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan.csproj",
+      "projectUniqueName": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan.csproj",
       "projectName": "Primeiro_app_Anhan",
-      "projectPath": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan.csproj",
+      "projectPath": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan.csproj",
       "packagesPath": "C:\\Users\\LucasDeAraujoAndrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\obj\\",
+      "outputPath": "C:\\Users\\LucasDeAraujoAndrade\\Documents\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\Primeiro_app_Anhan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
